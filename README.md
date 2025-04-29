@@ -15,22 +15,23 @@ Este projeto é um backend para um CRUD (Create, Read, Update, Delete) voltado p
 
 ---
 
----
-
 ## Docker
 
 - Existe um docker-compose na raiz do projeto, para doar execute o comando docker-compose up -d, ele criará o banco e também um usuário base para utilizar a aplicação.
 
-
-## Envs 
+## Envs
 
 - Crie um arquivo .env com base no .env.examplo (TO-DO: Utilizar docker para isso) e preencha com as variaveis necessárias.
 
-## Start 
+## Start
 
 - Rode o comando npm start ou start:dev para que a aplicação seja iniciada.
 
-## Login 
+## Login
 
 - email: teste@exemplo.com
 - senha: 123456
+
+## Frontend
+
+Ainda em desenvolvimento (utilizando ReactJS com next).
